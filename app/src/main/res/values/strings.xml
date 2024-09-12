@@ -3,5 +3,12 @@
 
     <string name="product">Products List</string>
     <string name="add_product">Add product</string>
+    <string name="productId">ID</string>
+    <string name="productName">Name</string>
+    <string name="productQuantity">Quantity</string>
+    <string name="productPrice">Price</string>
+    <string name="maker">Maker</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_back">Back</string>
 
 </resources>
